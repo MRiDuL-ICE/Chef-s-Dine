@@ -1,0 +1,109 @@
+[
+      {
+        "recipe_id": "R001",
+        "recipe_name": "Teriyaki Salmon Bowl",
+        "image": "https://i.ibb.co.com/942rstx/salmon-518032-1280.jpg",
+        "description": "A healthy and flavorful Japanese-inspired salmon bowl with fresh vegetables and homemade teriyaki sauce",
+        "ingredients": [
+          "400g fresh salmon fillet",
+          "120ml teriyaki sauce",
+          "300g cooked brown rice",
+          "200g broccoli florets",
+          "150g carrots, julienned",
+          "50g green onions",
+          "30ml sesame oil"
+        ],
+        "preparing_time": "25 min",
+        "calories": "450 calories"
+      },
+      {
+        "recipe_id": "R002",
+        "recipe_name": "Mediterranean Quinoa Salad",
+        "image": "https://i.ibb.co.com/tQk9vQ5/salad-2629262-1920.jpg",
+        "description": "A refreshing and nutritious salad combining quinoa with fresh Mediterranean vegetables and herbs",
+        "ingredients": [
+          "250g quinoa",
+          "200g cherry tomatoes",
+          "150g cucumber",
+          "100g feta cheese",
+          "80g kalamata olives",
+          "50g red onion",
+          "60ml olive oil",
+          "Fresh herbs mix"
+        ],
+        "preparing_time": "20 min",
+        "calories": "320 calories"
+      },
+      {
+        "recipe_id": "R003",
+        "recipe_name": "Mushroom Risotto",
+        "image": "https://i.ibb.co.com/K7t8ZFV/risotto-5894347-1920.jpg",
+        "description": "Creamy Italian risotto made with arborio rice and mixed mushrooms, finished with parmesan",
+        "ingredients": [
+          "350g arborio rice",
+          "400g mixed mushrooms",
+          "100g parmesan cheese",
+          "1L vegetable stock",
+          "150ml white wine",
+          "2 shallots",
+          "4 cloves garlic",
+          "30g butter"
+        ],
+        "preparing_time": "40 min",
+        "calories": "380 calories"
+      },
+      {
+        "recipe_id": "R004",
+        "recipe_name": "Thai Green Curry",
+        "image": "https://i.ibb.co.com/XWJfwW9/green-curry-2457236-1280.jpg",
+        "description": "Aromatic and spicy Thai curry with coconut milk, vegetables, and your choice of protein",
+        "ingredients": [
+          "400ml coconut milk",
+          "200g chicken breast",
+          "150g bamboo shoots",
+          "100g green beans",
+          "80g Thai eggplant",
+          "50g green curry paste",
+          "Kaffir lime leaves",
+          "Thai basil"
+        ],
+        "preparing_time": "35 min",
+        "calories": "410 calories"
+      },
+      {
+        "recipe_id": "R005",
+        "recipe_name": "Classic Caesar Salad",
+        "image": "https://i.ibb.co.com/kXwL671/salad-791891-1280.jpg",
+        "description": "Traditional Caesar salad with crispy romaine lettuce, homemade croutons, and creamy dressing",
+        "ingredients": [
+          "2 heads romaine lettuce",
+          "100g parmesan cheese",
+          "150g bread for croutons",
+          "2 cloves garlic",
+          "2 anchovy fillets",
+          "1 egg yolk",
+          "30ml olive oil",
+          "15ml lemon juice"
+        ],
+        "preparing_time": "15 min",
+        "calories": "280 calories"
+      },
+      {
+        "recipe_id": "R006",
+        "recipe_name": "Vegetarian Chickpea Curry",
+        "image": "https://i.ibb.co.com/zQ8knj0/curry-7249247-1920.jpg",
+        "description": "Hearty and flavorful chickpea curry packed with Indian spices and fresh vegetables",
+        "ingredients": [
+          "400g chickpeas",
+          "200g spinach",
+          "150g tomatoes",
+          "100g onion",
+          "4 cloves garlic",
+          "30g ginger",
+          "Garam masala",
+          "Coconut cream"
+        ],
+        "preparing_time": "30 min",
+        "calories": "340 calories"
+      }
+    ]
